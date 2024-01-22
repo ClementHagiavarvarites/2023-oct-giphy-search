@@ -1,6 +1,6 @@
 # Giphy Browser
 
-Hosting: https://clementhagiavarvarites.github.io/2023-oct-giphy-search/
+Hosting: https://clementhagiavarvarites.github.io/Giphy-Browser/
 
 ## User Stories
 
