@@ -1,4 +1,4 @@
-# Giphy Search App
+# Giphy Browser
 
 Hosting: https://clementhagiavarvarites.github.io/2023-oct-giphy-search/
 
