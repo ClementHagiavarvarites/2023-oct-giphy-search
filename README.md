@@ -10,7 +10,7 @@ Functionality: Use the Meme box to input desired gifs and specify how many you w
 
 Technologies Used: HTML, CSS, JS, and Bootstrap.
 
-Ideas for Future Improvement: Add a "Best Memes" page accessed through navbar. Add a "Contact" page accessed through navbar. Change design to something similar to the Giphy website. 
+Ideas for Future Improvement: Add a "Best Memes" page accessed through navbar. Add a "Contact" page accessed through navbar. Add functionality for the "HOME" link in the menu. 
 
 ## User Stories
 
