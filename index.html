@@ -58,6 +58,7 @@
                             class="form-control"
                             placeholder="Meme input"
                             name="memeTextInput"
+                            required pattern="\S(.*\S)?" title="This field is required"
                         >
                     </div>
                     <div class="mb-3 col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4">
@@ -71,9 +72,11 @@
                             <option value="20">20</option>
                         </select>
                     </div>
-                    <div class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4" style="display: flex; justify-content: center;">
+                    <div class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4" style="display: flex; justify-content: center; justify-content: space-evenly;">
                         <button type="submit" class="btn btn-dark" style="color: white; font-weight: 750;
                         font-size: x-large;">SUBMIT</button>
+                        <button type="submit" class="btn btn-dark" style="color: white; font-weight: 750;
+                        font-size: x-large;" onClick="window.location.reload();">CLEAR</button>
                     </div>
                 </fieldset>
             </form>
