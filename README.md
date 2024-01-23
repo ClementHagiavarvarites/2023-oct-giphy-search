@@ -1,6 +1,6 @@
-# Giphy Browser
+# Meme Machine
 
-Hosting: https://clementhagiavarvarites.github.io/Giphy-Browser/
+Hosting: https://clementhagiavarvarites.github.io/Meme-Machine/
 
 By: Clement (Zadyn) Kear
 
