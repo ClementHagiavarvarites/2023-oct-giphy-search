@@ -1,3 +1,27 @@
+/* NAVBAR: */
+
+.navbar-brand {
+    font-weight: 750;
+    font-size: xx-large;
+}
+
+.navbar-nav {
+    font-weight: 750;
+    font-size: xx-large;
+}
+
+.nav-link[href="#home"]:hover {
+    color: #fb6668;
+}
+
+.nav-link[href="#best-memes"]:hover {
+    color: #9741fa;
+}
+
+.nav-link[href="#contact"]:hover {
+    color: #24ccfb;
+}
+
 body {
     min-width: 300px;
 }
