@@ -6,7 +6,7 @@ By: Clement (Zadyn) Kear
 
 Overview: A website where users can search for their desired gifs.
 
-Functionality: Use the Meme box to input desired gifs and specify how many you want with the Number of gifs box.
+Functionality: Use the Meme box to input desired gifs and specify how many you want with the Number of gifs box. Use "CLEAR" button to refresh the page.
 
 Technologies Used: HTML, CSS, JS, and Bootstrap.
 
